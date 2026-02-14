@@ -103,7 +103,7 @@ Category: Web Exploitation
 │   └── pwn/
 ├── tryhackme/
 ├── 0xfunctf/
-├── taipanbyte-chart-ctf/
+├── TaipanByte-Chart-ctf/
 └── README.md
 ```
 
@@ -123,11 +123,11 @@ challenge-name/
 
 * Burp Suite
 * pwntools
-* Ghidra
 * Wireshark
 * Nmap
 * Python
 * Docker
+* etc
 
 ---
 
@@ -137,8 +137,8 @@ challenge-name/
 | -------------------- | --------- | ----------- |
 | OverTheWire          | 0         | 0           |
 | picoCTF              | 0         | 0           |
-| TryHackMe            | 0         | 0           |
-| 0xFunCTF             | 0         | 0           |
+| TryHackMe            | 0         | 1           |
+| 0xFunCTF             | 0         | 1           |
 | TaipanByte Chart CTF | 0         | 0           |
 
 ---
