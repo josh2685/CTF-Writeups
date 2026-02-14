@@ -74,7 +74,7 @@ picoCTF{...}
 * pwntools
 * Ghidra
 * Wireshark
-* Nmap
+* NMAP
 * Python
 
 ---
@@ -87,4 +87,5 @@ picoCTF{...}
 * Maintain a structured offensive knowledge base
 
 ---
+
 
