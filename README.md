@@ -1,4 +1,4 @@
-# 🏴‍☠️ CTF Challenges
+# 🏴‍☠️ CTF Writeups
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge">
